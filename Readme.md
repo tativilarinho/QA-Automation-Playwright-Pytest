@@ -1,6 +1,41 @@
-# 🎭 Playwright Pytest Boilerplate
+# 🎭 Projeto de Automação de Testes com Playwright e Pytest
 
-Boilerplate completo para automação de testes E2E com Playwright e Pytest. Configuração pronta para uso, seguindo as melhores práticas de testes automatizados.
+Projeto desenvolvido durante o curso de automação de testes com **Playwright e Pytest**, com o objetivo de aplicar conceitos de testes End-to-End (E2E), organização de testes, fixtures, configuração de ambientes e boas práticas de automação.
+
+> ⚠️ Este projeto foi criado para fins de aprendizado e evolução profissional, utilizando como base a estrutura apresentada durante o curso ministrado por **Fernando Papito (TestBeyond)**, com adaptações e implementações próprias.
+
+---
+
+## 🎯 Objetivos
+
+Os principais objetivos deste projeto são:
+
+- Desenvolver testes E2E utilizando Playwright;
+- Utilizar Python como linguagem de automação;
+- Estruturar testes utilizando Pytest;
+- Automatizar cenários funcionais;
+- Validar resultados através de assertions;
+- Criar uma estrutura organizada e escalável;
+- Praticar técnicas de debugging;
+- Evoluir gradualmente a arquitetura do projeto;
+- Aplicar conhecimentos de QA Manual na automação.
+
+---
+
+## 🛠️ Tecnologias e ferramentas utilizadas
+
+| Tecnologia / Ferramenta | Utilização |
+|---|---|
+| 🐍 **Python 3.11+** | Linguagem utilizada na automação |
+| 🎭 **Playwright** | Automação de navegadores e testes E2E |
+| 🧪 **Pytest** | Framework para execução e organização dos testes |
+| 🔌 **pytest-playwright** | Integração entre Pytest e Playwright |
+| 🖥️ **Cursor** | Ambiente de desenvolvimento com recursos de IA |
+| 📦 **pip** | Gerenciamento de dependências |
+| 🌱 **Git** | Controle de versão |
+| 🐙 **GitHub** | Versionamento, documentação e portfólio |
+
+---
 
 ## 📋 Pré-requisitos
 
@@ -103,8 +138,3 @@ page.pause()
 - pytest-playwright
 - playwright
 
----
-
-**Desenvolvido por Fernando Papito para o Projeto TestBeyond ⚡**
-
-🌐 Site oficial: [https://testbeyond.com](https://testbeyond.com)
