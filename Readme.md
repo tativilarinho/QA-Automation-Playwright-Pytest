@@ -138,3 +138,27 @@ page.pause()
 - pytest-playwright
 - playwright
 
+---
+
+## 👩‍💻 Autora
+
+**Tatiane Vilarinho**
+
+Projeto desenvolvido durante meus estudos em automação de testes com Playwright e Pytest.
+
+📧 LinkedIn: https://www.linkedin.com/in/tatiane-vilarinho/
+
+---
+
+## 🙏 Agradecimentos e Créditos
+
+Este projeto foi desenvolvido durante o curso ministrado por **Fernando Papito (TestBeyond)**.
+
+A estrutura inicial e parte dos conceitos utilizados foram inspirados no projeto-base disponibilizado durante o treinamento.
+
+🌐 Site oficial: https://testbeyond.com
+
+💻 Repositório de referência:
+https://github.com/TestBeyond/playwright-pytest
+
+Obrigado à TestBeyond e ao Fernando Papito pelo conteúdo e pela contribuição para a comunidade de QA e automação de testes.
